@@ -1,0 +1,6 @@
+{
+  "name": "FuelSync",
+  "description": "Fuel Mileage Tracker (FuelSync / MileLog) with Material 3 Expressive and reactive architecture",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
